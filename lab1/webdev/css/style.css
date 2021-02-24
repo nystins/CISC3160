@@ -1,0 +1,26 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+}
+
+th{
+    text-decoration: underline;
+  
+}
+
+td, th{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
