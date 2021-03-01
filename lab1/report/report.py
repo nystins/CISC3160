@@ -1,10 +1,13 @@
 import pandas as pd
 
+
+#Install "pandas" through terminal by "pip install pandas"
+
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_columns', None)
 pd.set_option('display.width', None)
 
-df = pd.read_csv('regional-global-weekly-latest.csv')
+df = pd.read_csv('regional-global-weekly-latest.csv', encoding="gbk")
 #groupbuy is to get the artist unique (same logic as SQL)
 #.agg = allows to count how many artist are there, and sum up streams | aggregations
 #reset_index because after we deleted the duplicates original CSV is 0-199, it gets less after deletion
