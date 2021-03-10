@@ -1,6 +1,6 @@
 # Lab 2 and 3
 
-GOAL: to build a grade calculator where user input Q (quizz), M (midterm), F (final Exam). And it will calculate and spit out the letter grade the student 
+GOAL: To build a grade calculator where user input Q (quizz), M (midterm), F (final Exam). After the user inputs the grades the student received for the respected field, it will calculate and spit out the letter grade the student 
 
 
 
