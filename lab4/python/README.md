@@ -17,5 +17,6 @@ In contrast to python we can create the tuple (b, a+b) and then unpack it back i
 The first directory label "algo" is a bunch of common algorithms imported from geeksforgeeks
 
 # Cheat Sheet
+Image from https://hakin9.org/python-cheat-sheet-for-hackers-and-developers/
 
 <img src="pcheatsheet.jpg" alt="cheat sheet">
