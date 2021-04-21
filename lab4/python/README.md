@@ -14,7 +14,8 @@ From java perspective to solve this problem a placeholder will need to be assign
 In contrast to python we can create the tuple (b, a+b) and then unpack it back into a and b. 
 
 # Algorithms
-The first directory label "algo" is a bunch of common algorithms imported from geeksforgeeks
+The first directory label "algo" is a bunch of common algorithms imported from geeksforgeeks.org
+I compare the syntax of python and Java versions of the code and try to follow the syntax as well as learning how it is done using python
 
 # Cheat Sheet
 Image from https://hakin9.org/python-cheat-sheet-for-hackers-and-developers/
