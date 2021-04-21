@@ -7,7 +7,9 @@ I have decided to choose C language as one of the language for this lab. Specifi
 
 ### my_cat.c: stimulates the cat linux command
 
-![my_cat](images/my_cat.png "my_cat")
+
+
+<div><img src="images/my_cat.png" alt="my_cat"></div>
  
 
 
